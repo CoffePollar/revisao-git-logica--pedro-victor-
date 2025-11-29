@@ -5,3 +5,27 @@ A decomposição se manifesta na criação e manutenção de branches no Git ao 
 
 
 Análise do git diff: A diferença mostra a adição de um novo parágrafo sobre decomposição, com linhas novas indicadas por '+'. Não há remoções ou conflitos, apenas acréscimo de conteúdo no final do arquivo, representando a evolução isolada no branch desenvolvimento em relação à main.
+
+QUESTÕES
+
+1. A importância da rastreabilidade Em Git, rastreabilidade significa seguir cada
+mudança do início ao fim, incluindo autores e tempos. Isso é essencial em
+grupos, pois evita perda de informação e permite voltar a pontos anteriores
+quando necessário.
+2. Branches e pensamento computacional A criação de branches se relaciona
+diretamente com decomposição: dividir o sistema em partes manipuláveis.
+Cada branch é uma unidade de desenvolvimento separada que organiza melhor
+as tarefas.
+3. Commits como metodologia lógica Registrar mudanças por meio de git commit
+é uma forma de aplicar pensamento sistemático. Cada commit marca uma
+etapa lógica, auxiliando no controle da progressão e na rastreabilidade técnica
+do projeto.
+4. Raciocínio lógico: indução e dedução Indução generaliza a partir de exemplos
+particulares, mas sem garantias absolutas. Dedução usa premissas
+estabelecidas para chegar a conclusões certas. A lógica estrutura modelos
+científicos e algoritmos computacionais. Confundir indução com dedução gera
+interpretações erradas.
+5. Git e lógica aplicada git status executa uma checagem lógica das alterações. git
+diff compara estados sem adivinhações. git log mostra uma sequência lógica
+que permite deduzir a evolução. O Git é guiado por mecanismos dedutivos
+baseados em regras muito bem definidas.
