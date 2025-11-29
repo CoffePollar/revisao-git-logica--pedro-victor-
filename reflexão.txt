@@ -1,1 +1,7 @@
 A lógica dedutiva no uso cotidiano do Git se manifesta quando partimos de premissas gerais, como o estado atual do repositório, para concluir ações específicas, como resolver conflitos em merges baseados em diferenças lógicas entre branches. Nas questões anteriores, isso apareceu ao deduzir soluções de problemas de versionamento a partir de regras gerais do Git, como o fluxo de commits sequenciais.
+
+
+A decomposição se manifesta na criação e manutenção de branches no Git ao dividir um problema complexo em partes menores e gerenciáveis. Por exemplo, um branch principal mantém o código estável, enquanto branches de feature decompõem tarefas em isoladas, facilitando a integração gradual e reduzindo riscos de erros globais.
+
+
+Análise do git diff: A diferença mostra a adição de um novo parágrafo sobre decomposição, com linhas novas indicadas por '+'. Não há remoções ou conflitos, apenas acréscimo de conteúdo no final do arquivo, representando a evolução isolada no branch desenvolvimento em relação à main.
